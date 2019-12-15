@@ -1,0 +1,221 @@
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:magrittr’:
+
+    extract
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:plyr’:
+
+    arrange, count, desc, failwith, id, mutate, rename, summarise,
+    summarize
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: lattice
+Loading required package: survival
+Loading required package: Formula
+
+Attaching package: ‘Hmisc’
+
+The following objects are masked from ‘package:dplyr’:
+
+    src, summarize
+
+The following objects are masked from ‘package:plyr’:
+
+    is.discrete, summarize
+
+The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+
+Attaching package: ‘purrr’
+
+The following object is masked from ‘package:plyr’:
+
+    compact
+
+The following object is masked from ‘package:magrittr’:
+
+    set_names
+
+
+Attaching package: ‘reshape2’
+
+The following object is masked from ‘package:tidyr’:
+
+    smiths
+
+Loading required package: xml2
+
+Attaching package: ‘rvest’
+
+The following object is masked from ‘package:purrr’:
+
+    pluck
+
+The following object is masked from ‘package:Hmisc’:
+
+    html
+
+Loading required package: methods
+Loading required package: Matrix
+
+Attaching package: ‘Matrix’
+
+The following object is masked from ‘package:tidyr’:
+
+    expand
+
+Loading required package: stats4
+mi (Version 1.0, packaged: 2015-04-16 14:03:10 UTC; goodrich)
+mi  Copyright (C) 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015 Trustees of Columbia University
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under the General Public License version 2 or later.
+Execute RShowDoc('COPYING') for details.
+
+Attaching package: ‘mi’
+
+The following object is masked from ‘package:tidyr’:
+
+    complete
+
+Loading required package: grid
+
+Attaching package: ‘survey’
+
+The following object is masked from ‘package:Hmisc’:
+
+    deff
+
+The following object is masked from ‘package:graphics’:
+
+    dotchart
+
+Loading required package: foreach
+
+Attaching package: ‘foreach’
+
+The following objects are masked from ‘package:purrr’:
+
+    accumulate, when
+
+Loaded glmnet 2.0-16
+
+Loading required package: Rcpp
+## 
+## Amelia II: Multiple Imputation
+## (Version 1.7.4, built: 2015-12-05)
+## Copyright (C) 2005-2018 James Honaker, Gary King and Matthew Blackwell
+## Refer to http://gking.harvard.edu/amelia/ for more information
+## 
+
+Attaching package: ‘GGally’
+
+The following object is masked from ‘package:dplyr’:
+
+    nasa
+
+
+Attaching package: ‘caret’
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:survival’:
+
+    cluster
+
+dummies-1.5.6 provided by Decision Patterns
+
+Loading required package: ggpubr
+Loading required package: prodlim
+
+Attaching package: ‘boot’
+
+The following object is masked from ‘package:survival’:
+
+    aml
+
+The following object is masked from ‘package:lattice’:
+
+    melanoma
+
+
+Attaching package: ‘plotly’
+
+The following object is masked from ‘package:Hmisc’:
+
+    subplot
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following objects are masked from ‘package:plyr’:
+
+    arrange, mutate, rename, summarise
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+gdata: read.xls support for 'XLS' (Excel 97-2004) files ENABLED.
+
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: to support 'XLSX' (Excel 2007+) files.
+
+gdata: Run the function 'installXLSXsupport()'
+gdata: to automatically download and install the perl
+gdata: libaries needed to support Excel XLS and XLSX formats.
+
+Attaching package: ‘gdata’
+
+The following object is masked from ‘package:stats4’:
+
+    nobs
+
+The following object is masked from ‘package:purrr’:
+
+    keep
+
+The following objects are masked from ‘package:dplyr’:
+
+    combine, first, last
+
+The following object is masked from ‘package:stats’:
+
+    nobs
+
+The following object is masked from ‘package:utils’:
+
+    object.size
+
+The following object is masked from ‘package:base’:
+
+    startsWith
+
+wCorr v1.9.1
+
+Loading 'metafor' package (version 2.0-0). For an overview 
+and introduction to the package please type: help(metafor).
+Loading required package: iterators
+Loading required package: parallel
+There were 50 or more warnings (use warnings() to see the first 50)
